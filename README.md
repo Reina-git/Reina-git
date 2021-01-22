@@ -1,6 +1,6 @@
 ## Hi, I'm Reina, a fullstack developer.
 
-[![Reina's github stats](https://github-readme-stats.vercel.app/api?username=Reina-git)](https://github.com/Reina-git/github-readme-stats)
+<!--[![Reina's github stats](https://github-readme-stats.vercel.app/api?username=Reina-git)](https://github.com/Reina-git/github-readme-stats)-->
 
 [My portfolio page](http://reina-uhler.surge.sh "My portfolio page")
 
